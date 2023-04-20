@@ -4,10 +4,10 @@ Clone Chatgpt3 In Python
 
 # Author Details
 
-Author => Kanapathipillai Vinothraj
-Linkedin => ```https://www.linkedin.com/in/vinothrajkanapathipillai```
-Instagram => Soon...
-YouTube => Soon...
+### Author => Kanapathipillai Vinothraj
+### Linkedin => ```https://www.linkedin.com/in/vinothrajkanapathipillai```
+### Instagram => Soon...
+### YouTube => Soon...
 
 # Requirements
 
