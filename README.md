@@ -5,7 +5,7 @@ Clone Chatgpt3 In Python
 # Author Details
 
 Author => Kanapathipillai Vinothraj
-Linkedin => https://www.linkedin.com/in/vinothrajkanapathipillai
+Linkedin => ```https://www.linkedin.com/in/vinothrajkanapathipillai```
 Instagram => Soon...
 YouTube => Soon...
 
@@ -16,7 +16,8 @@ YouTube => Soon...
 
 # Updates
 
-1. Create "text to speech" to read chatgpt output data => pyttsx3 packges
-   "pip install pyttsx3"
+### Create "text to speech" to read chatgpt output data => pyttsx3 packges
+* ```pip install pyttsx3```
 
-2. Upcoming.. => Create a "speech recognizer" to write input to chatgpt => speech_recognition packges "pip install SpeechRecognition"
+### Upcoming.. => Create a "speech recognizer" to write input to chatgpt => speech_recognition packges 
+* ```pip install SpeechRecognition```
