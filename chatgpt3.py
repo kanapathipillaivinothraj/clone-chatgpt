@@ -3,8 +3,8 @@ import openai  # opeanai package
 
 while True:
     def chatgptOutput(inputData):
-
-        openai.api_key = "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"
+        OPENAI_API_KEY = "openai_api_key"
+        openai.api_key = OPENAI_API_KEY
         response = openai.Completion.create(
             model="text-davinci-003",
             prompt=inputData,
@@ -35,9 +35,7 @@ while True:
             textSpeech.say(A)
             # Run the textSpeech
             return textSpeech.runAndWait()
-
         voiceSpeechJohn(A)
-
-
+        
     inputData = str(input("What Do You Want: "))  # get the input
     chatgptOutput(inputData)  # call the function
